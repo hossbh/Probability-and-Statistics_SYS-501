@@ -1,2 +1,2 @@
 # SYS501
-Probility and Statistics
+Probability and Statistics
