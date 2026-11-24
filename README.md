@@ -1,5 +1,11 @@
 # Probability and Statistics for Engineers (SYS-501)
 
+<!-- live-page:start -->
+<p align="center"><a href="https://hossbh.github.io/Probability-and-Statistics_SYS-501/"><img src="docs/assets/readme-banner.svg" width="100%" alt="Open the probability & statistics labs: https://hossbh.github.io/Probability-and-Statistics_SYS-501/"></a></p>
+
+<p align="center"><b>▶ Live interactive page: <a href="https://hossbh.github.io/Probability-and-Statistics_SYS-501/">hossbh.github.io/Probability-and-Statistics_SYS-501</a></b></p>
+<!-- live-page:end -->
+
 Applied probability and statistics worked in Python: descriptive statistics, probability distributions, Monte Carlo simulation, confidence intervals and hypothesis tests. Several problems use a real-world survey of Tesla battery degradation.
 
 ## Notebooks
